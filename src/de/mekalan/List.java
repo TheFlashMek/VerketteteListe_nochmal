@@ -92,6 +92,7 @@ public class List {
         }
     }
 
+    //Hallo kilian war hier
     public Boolean isEmpty(){
         return head == null;
     }
